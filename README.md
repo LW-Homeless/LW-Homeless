@@ -1,4 +1,4 @@
-### Hola, soy Francisco
+### Hola, Soy Francisco
 
 Actualmente me encuentro en un proceso de **transición profesional desde el área administrativa hacia el desarrollo de software**, con un enfoque principal en **backend development y ciberseguridad**.
 
