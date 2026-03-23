@@ -35,6 +35,7 @@ Actualmente estoy enfocado en aprender y practicar:
 ##### Proyectos  
 |Proyectos| Descripción  |
 | ------------ | ------------ |
+| Recon-Tool | Herramienta de línea de comandos para reconocimiento web: encabezados HTTP, detección de tecnología, registros DNS y WHOIS — con tecnología de Rich.|
 | SimpleScan  | Herramienta para realizar escaneo de puertos tcp. La herramienta realiza escneos de tipo Stealth scan, Connect scan y Acknowledgement scan (ACK scan).  |
 |  Whois-Enum | Herramienta que permite obtener información de registro whois de un dominio. tales como registro whois-root, registros whois, whois server. Además permite obtener consulta ASN.  |
 | DNSRecon  | Herramienta para la obtención de registros DNS tales como, registros IPv4 (A), registros Mail Exchange (MX), registro Name Server (NS). Además, automatiza el proceso de transferencia de zonas y opcionalmente la ejecución de fuerza bruta, para el descubrimiento de servicios.  |
