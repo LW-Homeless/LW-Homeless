@@ -1,17 +1,17 @@
 #  Hola, soy Francisco Meneses
 
-💻 Data Analyst Junior | Python | SQL | Excel  
-📊 Enfocado en análisis de datos y automatización de procesos  
+💻 Backend Developer Junior | Python | Django | SQL  
+📊 Experiencia en desarrollo web y análisis de datos  
 
 ---
 
 ##  Sobre mí
 
-Soy Analista de Sistemas en transición hacia el área de análisis de datos, con experiencia trabajando con datos reales en contextos administrativos e inventarios.
+Soy Analista de Sistemas con experiencia en desarrollo de aplicaciones web con Python y Django, así como en el análisis y procesamiento de datos.
 
-He utilizado herramientas como Excel y Python (Pandas) para la limpieza, transformación y análisis de datos, generando información útil para la toma de decisiones.
+He trabajado en la automatización de procesos, integración de datos y desarrollo de soluciones backend, combinando herramientas como Django, Pandas y bases de datos relacionales.
 
-Además, cuento con experiencia en desarrollo backend con Django, integrando análisis de datos en aplicaciones web.
+Me interesa seguir desarrollándome como backend developer, integrando buenas prácticas de desarrollo y conocimientos en ciberseguridad.
 
 ---
 
@@ -37,21 +37,21 @@ Aplicación web que permite analizar datos de inventario a partir de archivos Ex
 
 ---
 
-##  Tecnologías
+## Tecnologías
 
-###  Data
-- Python (Pandas)
-- SQL
-- Excel
-- Power Query  
-
-###  Backend
+### Backend
+- Python
 - Django
 - Django REST Framework  
 
-###  Bases de datos
+### Bases de datos
 - PostgreSQL
 - MySQL  
+
+### Data / procesamiento
+- Pandas
+- Excel
+- Power Query
 
 ---
 
@@ -67,10 +67,11 @@ Aplicación web que permite analizar datos de inventario a partir de archivos Ex
 
 ##  Intereses
 
-- Análisis de datos  
+- Desarrollo backend con Python y Django  
+- Desarrollo de aplicaciones web  
 - Automatización de procesos  
-- Desarrollo backend  
-- Ciberseguridad  
+- Análisis de datos aplicado a soluciones web  
+- Ciberseguridad aplicada a entornos web   
 
 ---
 
@@ -80,4 +81,4 @@ Aplicación web que permite analizar datos de inventario a partir de archivos Ex
 
 ---
 
-💡 Actualmente me encuentro enfocado en seguir desarrollando proyectos de análisis de datos y consolidar mi transición hacia el área de Data.
+💡Actualmente me encuentro enfocado en fortalecer mis habilidades en desarrollo backend y continuar construyendo proyectos web integrando análisis de datos.
