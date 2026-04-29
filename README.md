@@ -1,17 +1,9 @@
 #  Hola, soy Francisco Meneses
-
-💻 Backend Developer Junior | Python | Django | SQL  
-📊 Experiencia en desarrollo web y análisis de datos  
-
 ---
 
 ##  Sobre mí
 
-Soy Analista de Sistemas con experiencia en desarrollo de aplicaciones web con Python y Django, así como en el análisis y procesamiento de datos.
-
-He trabajado en la automatización de procesos, integración de datos y desarrollo de soluciones backend, combinando herramientas como Django, Pandas y bases de datos relacionales.
-
-Me interesa seguir desarrollándome como backend developer, integrando buenas prácticas de desarrollo y conocimientos en ciberseguridad.
+Analista de Sistemas enfocado en análisis de datos y automatización. Desarrollo proyectos en Python (Pandas, Django) orientados a limpieza, transformación y análisis de datos reales, incluyendo control de inventarios, detección de inconsistencias y generación de reportes para la toma de decisiones.
 
 ---
 
@@ -28,10 +20,7 @@ Aplicación web que permite analizar datos de inventario a partir de archivos Ex
 - Distribución por categoría  
 
 **Tecnologías:**
-- Python  
-- Django  
-- Pandas  
-- Excel  
+Python | Django | Pandas | Excel
 
 🔗 [Ver proyecto](https://github.com/LW-Homeless/inventory-analysis-system)
 
@@ -81,4 +70,4 @@ Aplicación web que permite analizar datos de inventario a partir de archivos Ex
 
 ---
 
-💡Actualmente me encuentro enfocado en fortalecer mis habilidades en desarrollo backend y continuar construyendo proyectos web integrando análisis de datos.
+💡Enfocado en fortalecer mis habilidades en analisis de datos + backend, desarrollando proyectos que integran análisis de datos con aplicaciones reales.
