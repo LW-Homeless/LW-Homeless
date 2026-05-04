@@ -1,73 +1,61 @@
-#  Hola, soy Francisco Meneses
----
-
-##  Sobre mí
-
-Analista de Sistemas enfocado en análisis de datos y automatización. Desarrollo proyectos en Python (Pandas, Django) orientados a limpieza, transformación y análisis de datos reales, incluyendo control de inventarios, detección de inconsistencias y generación de reportes para la toma de decisiones.
+# Hola, soy Francisco Meneses
 
 ---
 
-##  Proyecto destacado
+## Sobre mí
 
-### 🔹 Sistema de análisis de inventario (Python + Django)
+Analista de Sistemas enfocado en soporte TI, gestión de incidencias y análisis de información. Cuento con experiencia en atención a usuarios, resolución de problemas y procesamiento de datos, utilizando herramientas como SQL, Excel y Python.
 
-Aplicación web que permite analizar datos de inventario a partir de archivos Excel, generando métricas clave para la toma de decisiones.
+Me interesa desarrollarme en áreas de soporte, monitoreo y operaciones TI, contribuyendo a la continuidad operativa y mejora de procesos.
+
+---
+
+## Proyecto destacado
+
+### Sistema de análisis de inventario (Python + Django)
+
+Aplicación que permite procesar y analizar datos de inventario desde archivos Excel, generando información útil para la toma de decisiones.
 
 **Incluye:**
-- Valor total del inventario  
-- Rotación de inventario  
-- Clasificación ABC  
-- Distribución por categoría  
+- Procesamiento y limpieza de datos  
+- Análisis de inventario  
+- Generación de métricas clave  
 
 **Tecnologías:**
-Python | Django | Pandas | Excel
+Python | Django | Pandas | Excel  
 
-🔗 [Ver proyecto](https://github.com/LW-Homeless/inventory-analysis-system)
+🔗 Proyecto: https://github.com/LW-Homeless/inventory-analysis-system
 
 ---
 
 ## Tecnologías
 
-### Backend
-- Python
-- Django
-- Django REST Framework  
-
-### Bases de datos
-- PostgreSQL
-- MySQL  
-
-### Data / procesamiento
-- Pandas
-- Excel
-- Power Query
+- Python  
+- SQL  
+- Excel  
+- Django  
+- PostgreSQL / MySQL  
 
 ---
 
-##  Proyectos destacados
+## Proyectos
 
 | Proyecto | Descripción |
 |----------|------------|
-| 📊 [Inventory Analysis System](https://github.com/LW-Homeless/inventory-analysis-system) | Aplicación en Python y Django para análisis de inventarios con métricas clave de negocio. |
-| 🖥️ [Recon Tool](https://github.com/LW-Homeless/Recon-Tool) | Herramienta CLI para reconocimiento web (HTTP headers, DNS, WHOIS). |
-| 🌐 [DNSRecon](https://github.com/LW-Homeless/DNSRecon) | Herramienta para obtención y análisis de registros DNS. |
+| 📊 Inventory Analysis System | Aplicación para análisis de inventarios y procesamiento de datos. |
 
 ---
 
-##  Intereses
+## Intereses
 
-- Desarrollo backend con Python y Django  
-- Desarrollo de aplicaciones web  
+- Soporte TI  
+- Monitoreo de sistemas  
+- Gestión de incidencias  
 - Automatización de procesos  
-- Análisis de datos aplicado a soluciones web  
-- Ciberseguridad aplicada a entornos web   
+- Análisis de datos aplicado a operaciones  
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-🔗 LinkedIn: https://www.linkedin.com/in/jaime-meneses-castillo/  
-
----
-
-💡Enfocado en fortalecer mis habilidades en analisis de datos + backend, desarrollando proyectos que integran análisis de datos con aplicaciones reales.
+🔗 linkedin.com/in/jaime-meneses-castillo
