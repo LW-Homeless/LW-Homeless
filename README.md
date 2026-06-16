@@ -46,11 +46,3 @@ Conocimientos en seguridad ofensiva aplicados a la escritura de código más seg
 ## Stack
 
 `Python` `Django` `DjangoREST` `Pandas` `Linux` `HTML` `CSS` `JavaScript`
-
----
-
-## Contacto
-
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jaime-francisco-meneses-castillo-3382b9260) -->
-[![Blog](https://img.shields.io/badge/Blog-Ciberseguridad-black?style=flat&logo=blogger)](https://ciberseguridad-blog.blogspot.com/)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-blue?style=flat)](https://cyberdefenders.org/p/fmeneses)
