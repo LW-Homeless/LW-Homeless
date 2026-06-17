@@ -45,4 +45,4 @@ Conocimientos en seguridad ofensiva aplicados a la escritura de código más seg
 
 ## Stack
 
-`Python` `Django` `DjangoREST` `Pandas` `web scraping` `Linux` `HTML` `CSS` `JavaScript`
+`Python` `Django` `DjangoREST` `Pandas` `Web Scraping` `Linux` `HTML` `CSS` `JavaScript`
