@@ -7,6 +7,13 @@ Conocimientos en seguridad ofensiva aplicados a la escritura de código más seg
 
 ## Proyectos
 
+### 📊 Análisis de Datos
+| Repositorio | Descripción |
+|---|---|
+| [limpieza-csv-pandas](https://github.com/LW-Homeless/limpieza-csv-pandas) | Script de limpieza y transformación de datos CSV con Pandas: manejo de valores nulos, duplicados y normalización de columnas. |
+
+→ [Ver todos los repositorios de análisis de datos](https://github.com/search?q=user%3ALW-Homeless+topic%3Aanalisis-de-datos)
+
 ### 🌐 Desarrollo Web
 
 | Repositorio | Descripción |
