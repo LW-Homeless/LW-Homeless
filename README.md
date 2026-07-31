@@ -1,7 +1,7 @@
 # Francisco Meneses — LW-Homeless
 
 **Desarrollador Python** con enfoque en desarrollo web, análisis de datos y ciberseguridad.
-Conocimientos en seguridad ofensiva aplicados a la escritura de código más seguro y robusto.
+Conocimientos en seguridad aplicados a la escritura de código más seguro y robusto.
 
 ---
 
