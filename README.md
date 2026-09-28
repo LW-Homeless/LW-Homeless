@@ -11,7 +11,7 @@ También cuento con conocimiento en desarrollo web y ciberseguridad, que complem
 ### 📊 Análisis de Datos
 | Repositorio | Descripción |
 |---|---|
-| [Panda-time-Series](https://github.com/LW-Homeless/Panda-Time-Series) | TUI en Python con Textual, Pandas y Matplotlib para analizar la serie LTOTALNSA de FRED: diferencias anuales, media móvil y gráficos como imágenes. — proyecto de roadmap.sh. |
+| [Panda-Time-Series](https://github.com/LW-Homeless/Panda-Time-Series) | TUI en Python con Textual, Pandas y Matplotlib para analizar la serie LTOTALNSA de FRED: diferencias anuales, media móvil y gráficos como imágenes. — proyecto de roadmap.sh. |
 | [Job-Listings-Scraper](https://github.com/LW-Homeless/Job-Listings-Scraper) | Scraper de ofertas de empleo construido con Python, Requests y BeautifulSoup, con una interfaz de terminal (TUI) hecha con Textual que muestra los resultados en tiempo real. — proyecto de roadmap.sh. |
 | [netflix-dataset-cleaner-tui](https://github.com/LW-Homeless/netflix-dataset-cleaner-tui) | TUI interactiva en Python para limpiar el dataset de Netflix (Kaggle) con pandas — proyecto de roadmap.sh. |
 | [limpieza-csv-pandas](https://github.com/LW-Homeless/limpieza-csv-pandas) | Script de limpieza y transformación de datos CSV con Pandas: manejo de valores nulos, duplicados y normalización de columnas. |
